@@ -12,8 +12,4 @@
 + Blog: [Zwlin's Blog](https://blog.zwlin.io)
 + Telegram Channel: [Zwlin's Channel](https://t.me/Zwlin_channel)
 
-### Statistics
- 
-[![Zwlin's github stats](https://github-readme-stats.vercel.app/api?username=Zwlin98&show_icons=true&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 
